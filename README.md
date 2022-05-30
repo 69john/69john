@@ -1,4 +1,4 @@
-- 👋 Hi, I’m John
+- 👋 Hi, I’m John and I am gay
 - 👀 I’m interested in ... C++ Python C#
 - 🌱 I’m currently learning ... C++ Python C#
 - 📫 How to reach me 
