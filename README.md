@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @69john
+- 👋 Hi, I’m John
 - 👀 I’m interested in ... C++ Python C#
 - 🌱 I’m currently learning ... C++ Python C#
 - 📫 How to reach me 
